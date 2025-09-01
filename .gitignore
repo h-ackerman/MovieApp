@@ -1,1 +1,57 @@
+# Build artifacts
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.cache
+project.assets.json
+project.nuget.cache
+*.dgspec.json
+*.g.props
+*.g.targets
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.bak
+*.log
+*.opendb
+*.opensdf
+*.sdf
+*.vssscc
+*.vspscc
+*.vsp
+*.vspx
+*.licx
+*.builds
+*.tlog
+*.lastbuildstate
+*.vcproj.*.filters
+*.vcxproj.*.user
+*.sln.docstates
+*.vcproj
+*.vcxproj
+*.filters
+*.dbmdl
+*.jfm
+*.pfx
+*.vsix
+*.webtest
+*.testsettings
+*.trx
+*.rdc
+*.rdo
+*.rgs
+*.ruleset
+*.resharper
+*.dotSettings
+*.pidb
+*.pdb
+
+# Frontend
+node_modules/
+dist/
+.vite/
+.env
